@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "name": "c",
+  "description": "Repositorio Frontend Yo Programo\r prueba master class git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server -p 8436",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ritec1/PorfolioFrontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ritec1/PorfolioFrontend/issues"
+  },
+  "homepage": "https://github.com/ritec1/PorfolioFrontend#readme"
+}
